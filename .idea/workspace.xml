@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14d08768-9fe3-442f-81cf-cc2f3f94642a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bZIKaulcJRx6miH1hT1u7Jzszy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14d08768-9fe3-442f-81cf-cc2f3f94642a" name="Default Changelist" comment="" />
+      <created>1588833125550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588833125550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1588836536248">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="422" y="123" key="#com.intellij.ide.util.MemberChooser/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1588836536248" />
+    <state x="2027" y="199" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1588889227511">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2027" y="199" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/1280.0.1920.1080/0.0.1280.800@1280.0.1920.1080" timestamp="1588889227511" />
+  </component>
+</project>
