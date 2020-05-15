@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2441e1d6-70ec-4af9-8d98-7353071c352b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/FullDelivery.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstract_factory/FullDelivery.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/FullDeliveryOrder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstract_factory/FullDeliveryOrder.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/FullDeliveryOrderFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstract_factory/FullDeliveryOrderFactory.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/Marketplace.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstract_factory/Marketplace.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/MarketplaceOrder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstract_factory/MarketplaceOrder.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/Order.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstract_factory/Order.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/OrderType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstract_factory/OrderType.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/Pickup.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstract_factory/Pickup.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_factory/PickupOrder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/creational/abstract_factory/PickupOrder.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
