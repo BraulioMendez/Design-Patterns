@@ -1,12 +1,10 @@
 class Client {
 
-    fun createOrder(type: String): Order? {
+    fun createOrder(type: OrderType): Order {
         return when(type) {
-            "new_order" -> NewOrder(true)
+            OrderType.NEW_ORDER -> NewOrder(true)
 
-            "finished" -> FinishedOrder(100.0)
-
-            else -> null
+            OrderType.FINISHED_ORDER -> FinishedOrder(100.0)
         }
     }
 

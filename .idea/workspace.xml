@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2441e1d6-70ec-4af9-8d98-7353071c352b" name="Default Changelist" comment="" />
+    <list default="true" id="2441e1d6-70ec-4af9-8d98-7353071c352b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,9 +52,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="348" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589251344100">
+    <state x="348" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589680996304">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="348" y="210" key="#com.intellij.fileTypes.FileTypeChooser/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1589251344100" />
+    <state x="348" y="210" key="#com.intellij.fileTypes.FileTypeChooser/1280.0.1920.1080/0.0.1280.800@0.0.1280.800" timestamp="1589680996304" />
   </component>
 </project>
